@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/vgarmy/faq-accordion-card
-- Live Site URL: https://vgarmy.github.io/faq-accordion-card/
+- Solution URL: https://github.com/DruxAMB/faq-accordion-card
+- Live Site URL: ""
 ## My process
 
 ### Built with
@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-How to work with images on absolut position and use of userState.
+How to work with images on absolut position and use of useState.
 
 
 ### Continued development
@@ -57,5 +57,6 @@ Need more react :)
 
 ## Author
 
-- Website - [Vladimir @ github](https://github.com/vgarmy)
-- Frontend Mentor - [@vgarmy](https://www.frontendmentor.io/profile/vgarmy)
+- Website - [Portfolio](https://druxamb.github.io/DruxAMB-Portfolio/)
+- Frontend Mentor - [DruxAMB](https://www.frontendmentor.io/profile/DruxAMB)
+- Twitter - [DruxAMB](https://twitter.com/DruxAMB])
